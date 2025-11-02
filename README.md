@@ -68,4 +68,3 @@ This project demonstrates how I designed and configured a small-scale Security O
 
 ---
 
-## 🧾 Sample Evidence
